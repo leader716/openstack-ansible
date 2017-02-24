@@ -96,8 +96,8 @@
   version: 5f673e6f0019267a8a51a2df5314459e21b06b0a
 - name: os_nova
   scm: git
-  src: https://git.openstack.org/openstack/openstack-ansible-os_nova
-  version: bdf0b9be69827b6705e23238ba8718044ba33094
+  src: https://github.com/leader716/openstack-ansible-os_nova
+  version: con1480-14.0.8
 - name: os_rally
   scm: git
   src: https://git.openstack.org/openstack/openstack-ansible-os_rally
